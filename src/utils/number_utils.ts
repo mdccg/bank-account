@@ -1,0 +1,1 @@
+export const parseNumber = (number: number) => Number(number.toFixed(2));
