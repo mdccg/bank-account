@@ -1,4 +1,4 @@
-import { formatCurrency, parseNumber } from './../utils/number_utils';
+import { parseNumber } from './../utils/number_utils';
 
 class BankAccount {
   private _signature: string = 'Standart';
